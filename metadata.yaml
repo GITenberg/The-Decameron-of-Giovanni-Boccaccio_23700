@@ -34,6 +34,8 @@ description: "The Decameron (Italian title: \"Decameron\" [deˈkaːmeron; dekame
   \ a document of life at the time. Written in the vernacular of the Florentine language,\
   \ it is considered a masterpiece of classical early Italian prose.\n From Wikipedia\
   \ (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23700#The-Decameron-of-Giovanni-Boccaccio
 gutenberg_bookshelf: Best Books Ever Listings
 gutenberg_issued: '2007-12-03'
 gutenberg_type: Text
